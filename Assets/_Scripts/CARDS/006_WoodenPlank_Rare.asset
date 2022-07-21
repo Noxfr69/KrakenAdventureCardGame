@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3646b79c67db5b41a972f34f137f81c, type: 3}
+  m_Name: 006_WoodenPlank_Rare
+  m_EditorClassIdentifier: 
+  ID: 6
+  Buy_Price: 250
+  Sell_Price: 125
+  name: Wooden Plank
+  Description: 'Try to repair your boat before it''s too late '
+  Image: {fileID: 21300000, guid: 3e2c25fe80f47ab4e9f13df40df75b09, type: 3}
+  Damage: 0
+  Armor: 0
+  HealthRegen: 20
+  typeID: 3
+  Rarity: 2

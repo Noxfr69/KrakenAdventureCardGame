@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3646b79c67db5b41a972f34f137f81c, type: 3}
+  m_Name: 014_Cannon_Diamond
+  m_EditorClassIdentifier: 
+  ID: 14
+  Buy_Price: 1000
+  Sell_Price: 1000
+  name: Cannon
+  Description: Who thought this was a good idea ?
+  Image: {fileID: 21300000, guid: bdea4bd43e7cf834e996dcaaad40d788, type: 3}
+  Damage: 500
+  Armor: 0
+  HealthRegen: 0
+  typeID: 1
+  Rarity: 5
